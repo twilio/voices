@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="https://www.twilio.com/marketing/bundles/company-brand/img/logos/red/twilio-mark-red.svg" width="100">
+<img src="https://www.twilio.com/marketing/bundles/company-brand/img/logos/red/twilio-mark-red.svg" width="100">
+<h1 align="center">Twilio Voices</h1>
 </p>
-  <h1 align="center">Twilio Voices</h1>
+<p>
+Contribute programming tutorials to the <a href="https://www.twilio.com/blog">Twilio blog</a>. Get paid for each post you publish.
 </p>
-<p align="center">
-  Contribute programming tutorials to the <a href="https://www.twilio.com/blog">Twilio blog</a>. Get paid for each post you publish.
+<p>
+<a href="https://github.com/twilio/voices/issues">Check out the list of posts we'd love to see written in this repository's GitHub issue tracker.</a>
 </p>
 
 ### What is Twilio Voices?
