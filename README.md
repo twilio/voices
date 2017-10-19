@@ -11,7 +11,7 @@
 
 The [Twilio Voices](https://twiliovoices.com) program allows you to technical tutorials with code to the [Twilio blog](https://www.twilio.com/blog) and get paid as soon as your post is published.
 
-If you want to get an idea of the format of such blog posts or would like to see previous contributions to Twilio Voices you can check out the [list of example blog posts here](https://go.twilio.com/twilio-voices/).
+If you want to get an idea of the format of such blog posts or would like to see previous contributions to Twilio Voices you can check out the [list of example blog posts here](http://twiliovoices.com).
 
 ### Don't know what to write about?
 
@@ -27,5 +27,5 @@ Once you started writing about a topic that has an open issue in the issues sect
 
 ### Got other questions?
 
-Make sure to check out the [Frequently Asked Questions section on the Twilio Voices page](https://go.twilio.com/twilio-voices) or raise an issue here and we are happy to help.
+Make sure to check out the [Frequently Asked Questions section on the Twilio Voices page](http://twiliovoices.com) or raise an issue here and we are happy to help.
 
