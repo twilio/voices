@@ -9,7 +9,7 @@
 
 ### What is Twilio Voices?
 
-The [Twilio Voices](https://twiliovoices.com) program allows you to technical tutorials with code to the [Twilio blog](https://www.twilio.com/blog) and earn $500 in the process.
+The [Twilio Voices](https://twiliovoices.com) program allows you to technical tutorials with code to the [Twilio blog](https://www.twilio.com/blog) and get paid as soon as your post is published.
 
 If you want to get an idea of the format of such blog posts or would like to see previous contributions to Twilio Voices you can check out the [list of example blog posts here](https://go.twilio.com/twilio-voices/).
 
